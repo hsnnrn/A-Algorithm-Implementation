@@ -1,6 +1,5 @@
- ![Uploading Animation.gif]()
 
-
+![](Animation.gif)
 <h1>A* Algorithm Implementation</h1>
 
 <p>In this project, we implement the A* algorithm for finding shortest paths.</p>
