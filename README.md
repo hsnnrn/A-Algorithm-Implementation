@@ -1,4 +1,4 @@
- ![Uploading Animation.gif…]()
+ ![Uploading Animation.gif]()
 
 
 <h1>A* Algorithm Implementation</h1>
